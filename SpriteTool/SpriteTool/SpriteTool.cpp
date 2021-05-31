@@ -21,3 +21,5 @@ int CALLBACK WinMain(
 
 	return app->Run(); // 정상 종료시 0을 반환
 }
+
+// git testing
