@@ -1,0 +1,19 @@
+
+	- 처음
+	+  git init 				// 초기화
+	+  git remote add origin /주소		// 폴더 경로 등록
+
+	- push
+	+ git status				// 상태확인
+	+ git add .				// 파일 설정
+	+ git commit -m "message"			// 파일 수정하는 메시지 등록
+	+ git push origin master			// 파일 등록
+
+	- pull
+	+ git pull origin master
+
+	** 주의사항 **
+	push 하기전에 pull 할것	
+
+	** 링크 **
+	https://www.youtube.com/watch?v=tC8Xj_Bf8Fw
